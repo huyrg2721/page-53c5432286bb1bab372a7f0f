@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "864a6b5f9ef9c72cb6ac71ef",
+  "owner": "huyrg2721",
+  "repo": "page-53c5432286bb1bab372a7f0f",
+  "title": "快鱼(Fastfish)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "53c5432286bb1bab372a7f0f",
+      "a": "快鱼(Fastfish)",
+      "b": "2027最新官网",
+      "entity": "快鱼(Fastfish)",
+      "brand": "快鱼(Fastfish)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8e40e0435890dfe70bbc166ef10e5a19878c20107116f32fcac517839f67d07f",
+      "content": {
+        "primary_entity": "快鱼(Fastfish)",
+        "keyword1": "快鱼(Fastfish)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，专注于为跨区联网场景提供稳定的订阅服务。基础版每月15元含100GB流量，适合3台设备以内轻度使用；旗舰版每月35元含300GB流量并支持5台设备，配备IPLC专线适合游戏加速与高清流媒体；团队版每月85元含1000GB流量，支持20台设备与定制路由。选择时先确认常用设备数量与月流量需求，再匹配对应套餐，客户端覆盖主流桌面与移动系统，按文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "快鱼加速，按需选套餐",
+          "AI_HERO_INTRO": "快鱼(Fastfish)提供面向跨境访问的订阅服务，按流量、设备数和线路类型划分基础版、旗舰版与团队版三档套餐，方便按个人或团队规模灵活选择。",
+          "AI_VISUAL_TITLE": "快鱼加速订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案节省约两个月费用",
+          "AI_FEATURES_TITLE": "选择快鱼的三个要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与线路需求三个角度匹配套餐，减少反复更换的麻烦。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版可支持20台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "月流量从100GB到1000GB逐级提升，日常视频与办公可对应中低档。",
+          "AI_FEATURE_TITLE_3": "按周期享年付优惠",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版350元，团队版850元，约为十个月月付价格。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "快鱼订阅可在常见桌面与移动系统上配置，选择与设备系统匹配的客户端，并参照对应文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月15元适合3台设备轻度使用；旗舰版每月35元支持5台设备并含IPLC专线；团队版每月85元支持20台设备与定制路由。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再核对系统适配情况，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月大致流量，对照基础版、旗舰版或团队版选择。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看使用设备所属系统，选择对应的客户端版本并了解基本的网络要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档中的步骤添加订阅链接，保存后即可在设备上启用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松加速",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定档位，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "快鱼(Fastfish)三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "流量与设备数不同：基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备并支持定制路由。",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_2": "复制订阅链接，在所选客户端的订阅或配置管理中粘贴导入，保存后更新节点列表即可连接使用。",
+          "AI_FAQ_QUESTION_3": "可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_3": "可以。基础版支持3台、旗舰版支持5台、团队版支持20台设备同时在线，超出数量可能需要升级版本。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付折算月均成本更低，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，功能权益与对应月付版本一致。",
+          "AI_FAQ_QUESTION_5": "普通线路和IPLC专线怎么选？",
+          "AI_FAQ_ANSWER_5": "日常浏览与流媒体可先用普通线路；对游戏延迟或实时传输稳定性要求较高时，可考虑含IPLC专线的旗舰版。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hhoujiaodai.cn",
+    "host": "hhoujiaodai.cn"
+  },
+  "file_hashes": {
+    "index.html": "f73c42ac6c59f8a6119258a2a0672510bd2ebec9a96f52bd3ad8d5ee897e057d",
+    "sitemap.xml": "b5a29d8fe62e478dcdd8a14a3e04bfbaa2ee0d7b3aec843a05f9c491cbc955d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2baadca1473d3806bea5e42b9b491d6e4d2036158f9156bc5c9eda90ccbd75a7",
+    "robots.txt": "3d4884f3f8715f2a66733eeb0b23ff7dc52002e02214bc113ba1147f2891d008",
+    "4594c1182c10df93a69e194af82fbf99.txt": "d97ee6ea690e4120f39e961019cd9bbdde534694c2f497620d0c1f7988d57d48"
+  },
+  "revision": "ae611e38b51de24ddaff2a7e56ca0be22cc7cee17fb00f27dfe08dcfc3890e87"
+}
